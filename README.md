@@ -7,4 +7,3 @@
  - Amostragem estratificada
  - Amostragem por conglomerado
  - Medidas estatísticas populacionais (total, média, variância, covariância, correlação, razão, razão média)
- - 
